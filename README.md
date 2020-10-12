@@ -17,7 +17,7 @@
   <img align="left" alt="Bershawi's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<br />
+<br><br/>
 
 Hi, I'm [Abdelrhman Bershawi], a Back-End Engineer 🚀 from Egypt, currently, I'm a Junior Back-End, passionate about Machine Learning  🙍🏽‍♂️, and a Former Business Development  [@Saint-Gobain For Glass](https://www.saint-gobain.com/en). Be side's Coding , I enjoy traveling and diving.
 
