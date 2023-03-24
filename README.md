@@ -45,30 +45,3 @@ Hi, I'm [Abdelrhman Bershawi], a Back-End Engineer 🚀 from Egypt, currently, I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Python       7 hrs 46 mins   █████████████▓░░░░░░░░░   55.03 % 
-Django.py    5 hrs 43 mins   ██████████░░░░░░░░░░░░░   39.82 % 
-Django Rest API  41 mins     █▒░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  5,117 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 331 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bershawi&show_icons=true&theme=gotham" alt="Bershawi" />
-
-</details>
